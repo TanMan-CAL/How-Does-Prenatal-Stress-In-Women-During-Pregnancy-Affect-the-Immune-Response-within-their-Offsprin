@@ -1,5 +1,5 @@
 # How-Does-Prenatal-Stress-in-Women-During-Pregnancy-Affect-the-Immune-Response-within-their-Offspring  
-# Youreka 2022, Tanmay Shah, Kartik Budihal, Arnav Patil, Ibrahim Ahmed, Seniru Ruwanpura
+YOUREKA 2023, Faisal Altaie, Kartik Budihal, Rijwal Sangey, Tanmay Shah
 
 Stress is a pervasive experience for a considerable number of individuals, including expecting mothers. In fact, pregnancy can be an especially demanding period for women as they navigate the physical, emotional, and social transitions that come with nurturing a new life. Findings from research indicate that a significant percentage of pregnant women, ranging from 10-20%, experience depression symptoms during gestation, while up to 25% report anxiety symptoms (Catherine Lebel, Anna MacKinnon, Mercedes Bagshawe, Lianne Tomfohr-Madsen, and Gerald Giesbrecht). 
 
